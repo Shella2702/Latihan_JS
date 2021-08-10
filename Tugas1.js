@@ -2,7 +2,7 @@
 
 let jabatan = 'CTO'
 
-if (jabatan = 'CTO') {
+if (jabatan == 'CTO') {
     console.log("Jika saya sebagai CTO, maka tugas saya sebagai CTO adalah mengelola pengembangan dan menyatukan pengembangan");
 } else if (jabatan == 'CEO') {
     console.log("jika saya sebagai CEO, Maka tugas saya sebagai CEO adalah merancang dan memprediksi tren pasar");
